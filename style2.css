@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+}
+.a{
+    width: 20%;
+    float: left;
+    margin-left: 8%;
+    padding:8%;
+}
+h1{
+    font-size: 35px;
+}
+
+.a img{
+    width:150%;
+    height: 500px;
+}
+.name{
+    color:blue;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(cyan,blue);
+    color: beige;
+    padding: 10px,20px;
+    font-weight: 600;
+    
+
+}
+.top{
+    background-image: url(images/header.png);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+section{
+    height: 500px;
+    padding-bottom:120px;
+    
+}
+.middle{
+    background-image: url(images/biography.png);
+    background-repeat: no-repeat;
+}
+.im{
+    width:25%;
+    height:200px;
+    margin-right:15px;
+    margin-left: 20px;
+
+}
+.my-work{
+    margin:50px 10px;
+    padding:2px 180px;
+
+}
+.b{
+    float: left;
+    margin:1px 80px;
+    padding:1% 25%;
+
+
+}
+.bottom{
+    background-image: url(images/latest.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.client{
+   margin:80px 650px;
+
+}
+h5{
+    margin:
+    
+}
+.bruce{
+    line-height: 2px;
+    margin:20px 620px;
+
+}
+.moccy{
+    margin:30px 710px;
+
+}
+.bmfc{
+    line-height:3px;
+}
+.ceo-f{
+    font-size: 10px;
+}
+.leave{
+    background-image: linear-gradient(45deg,rgb(11, 128, 224),rgb(214, 200, 198));
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    width:25%;
+    margin: 60px 540px
+}
+.message{
+    text-align: center;
+    font-size: 10px;
+}
+.mail{
+    text-align: center;
+}
+.end{
+    background-image: url(images/footer.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+}
